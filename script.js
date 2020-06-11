@@ -22,6 +22,7 @@ window.addEventListener('resize',function(){
 
 (function(){
 alert("press enter to play");
+alert("rod1 controls key A and D rod2 controls key J and L");
 resetBoard();
 })();
 
